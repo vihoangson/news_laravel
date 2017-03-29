@@ -1,0 +1,828 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bs3-la",
+				"bs3-label:danger	bs3-label-danger"
+			],
+			[
+				"bs3-button",
+				"bs3-button:primary	bs3-button-primary"
+			],
+			[
+				"bs3-butt",
+				"bs3-button:info	bs3-button-info"
+			],
+			[
+				"bs3-bu",
+				"bs3-button:default	bs3-button-default"
+			],
+			[
+				"sec",
+				"sec	blade-section"
+			],
+			[
+				"bs3-pan",
+				"bs3-panel:info	bs3-panel-info"
+			],
+			[
+				"bs3list",
+				"bs3-list-group:linked	bs3-list-group-linked"
+			],
+			[
+				"bs3-group",
+				"bs3-link-group	bs3-link-button-group"
+			],
+			[
+				"bs3-bt",
+				"bs3-button:primary	bs3-button-primary"
+			],
+			[
+				"th",
+				"throw	Throw Exception"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"preg_ma",
+				"preg_match"
+			],
+			[
+				"rea",
+				"ready	$(document).ready"
+			],
+			[
+				"bas",
+				"base64_decode"
+			],
+			[
+				"upload",
+				"upload	CI - Upload Boilerplate"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"fetc",
+				"fetch_method	CI - Fetch Method"
+			],
+			[
+				"load",
+				"load_view	CI - Load View"
+			],
+			[
+				"bs3-but",
+				"bs3-button:primary	bs3-button-primary"
+			],
+			[
+				"session_un",
+				"session_unset_userdata	CI - Session - Removing Session Data"
+			],
+			[
+				"bs3-nav",
+				"bs3-navbar	bs3-navbar"
+			],
+			[
+				"session_use",
+				"session_userdata	CI - Session - Retrieving Session Data"
+			],
+			[
+				"bs3-ta",
+				"bs3-table:hover	bs3-table-hover"
+			],
+			[
+				"session_user",
+				"session_set_userdata	CI - Session - Adding Custom Session Data"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass()"
+			],
+			[
+				"bs3-aler",
+				"bs3-alert:success	bs3-alert-success"
+			],
+			[
+				"uri",
+				"uri_segment	CI - URI Segment"
+			],
+			[
+				"each",
+				"each	$.each()"
+			],
+			[
+				"bs3-icon",
+				"bs3-icon:glyphicon	bs3-icon-glyphicon"
+			],
+			[
+				"redy",
+				"ready	$(document).ready"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"db",
+				"db_get	CI - Active Record DB Get"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"bs3-inp",
+				"bs3-input:text	bs3-input-text"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "numrow",
+		"selected_items":
+		[
+			[
+				"numrow",
+				"Snippet: CI - Active Record DB Num Rows"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"laravel",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"blade",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"can",
+				"Build: Cancel"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Ruby22/code/rails/firstapp",
+		"/D/Ruby22/code/rails/firstapp/app",
+		"/D/Ruby22/code/rails/firstapp/app/controllers",
+		"/D/Ruby22/code/rails/firstapp/app/controllers/concerns",
+		"/D/Ruby22/code/rails/firstapp/app/views",
+		"/D/Ruby22/code/rails/firstapp/app/views/layouts",
+		"/D/Ruby22/code/rails/firstapp/app/views/posts",
+		"/D/Ruby22/code/rails/firstapp/bin",
+		"/D/Ruby22/code/rails/firstapp/config"
+	],
+	"file_history":
+	[
+		"/D/Ruby22/code/rails/firstapp/app/views/layouts/application.html.erb",
+		"/D/Ruby22/code/rails/firstapp/app/controllers/application_controller.rb",
+		"/C/Users/Admin/AppData/Local/Temp/scp04319/var/www/vhosts/video_youtube/app/Http/Controllers/admin/ImportvideoController.php",
+		"/D/Ruby22/code/rails/firstapp/app/controllers/posts_controller.rb",
+		"/D/Ruby22/code/rails/firstapp/app/views/posts/index.html.erb",
+		"/D/Ruby22/code/rails/firstapp/config/routes.rb",
+		"/C/Users/Admin/AppData/Local/Temp/scp35162/var/www/vhosts/vihoangson.com/index.php",
+		"/D/Ruby22/devkit/config.yml",
+		"/D/Ruby22/code/hi.rb",
+		"/C/Users/Admin/AppData/Local/Temp/scp47589/var/www/vhosts/my_blog/config/app.php",
+		"/C/Users/Admin/AppData/Local/Temp/scp41203/var/www/vhosts/my_blog/bootstrap/cache/services.php",
+		"/C/Users/Admin/AppData/Local/Temp/scp34187/var/www/vhosts/my_blog/composer.json",
+		"/C/Users/Admin/AppData/Local/Temp/scp32899/var/www/vhosts/my_blog/app/Console/Kernel.php",
+		"/D/xampp/htdocs/LearningEnglish/application/config/config.php",
+		"/D/xampp/htdocs/LearningEnglish/application/views/pro/show.php",
+		"/D/xampp/htdocs/LearningEnglish/application/models/Tuvung.php",
+		"/D/xampp/htdocs/LearningEnglish/application/controllers/Get_pro.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Admin/AppData/Local/Temp/scp44587/etc/httpd/vhosts/vihoangson.com.conf",
+		"/C/Users/Admin/AppData/Local/Temp/scp39013/var/www/vhosts/vihoangson.com/htdocs/config/app.php",
+		"/D/xampp/htdocs/my_blog/resources/views/layouts/layout_single_blog.blade.php",
+		"/D/xampp/htdocs/my_blog/resources/views/layouts/layout.blade.php",
+		"/D/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/D/xampp/htdocs/LearningEnglish/phpliteadmin.php",
+		"/C/Users/Admin/Downloads/vocabulary_word_2016-01-06.dump.sql",
+		"/D/xampp/htdocs/my_blog/resources/views/blog.blade.php",
+		"/D/xampp/htdocs/my_blog/resources/views/homepage.blade.php",
+		"/D/xampp/htdocs/my_blog/public/assets/themes/css/style.css",
+		"/D/xampp/htdocs/my_blog/public/assets/themes/js/jquery.flexslider.js",
+		"/D/xampp/htdocs/my_blog/config/app.php",
+		"/D/xampp/htdocs/my_blog/public/assets/themes/js/main.js",
+		"/D/xampp/htdocs/my_blog/vendor/symfony/console/Helper/Helper.php",
+		"/D/xampp/htdocs/my_blog/public/assets/themes/blog-single.html",
+		"/D/xampp/htdocs/my_blog/app/Http/routes.php",
+		"/D/xampp/htdocs/my_blog/resources/views/layouts/layout_admin.blade.php",
+		"/D/xampp/htdocs/my_blog/app/Http/Controllers/HomepageController.php",
+		"/D/xampp/htdocs/my_blog/resources/views/blog_sigle.blade.php",
+		"/D/xampp/htdocs/my_blog/resources/views/widgets/ele_blog.blade.php",
+		"/D/xampp/htdocs/my_blog/app/Http/Controllers/admin/BlogsManagerController.php",
+		"/D/xampp/htdocs/my_blog/resources/views/blogs/create.blade.php",
+		"/D/xampp/htdocs/my_blog/resources/views/blogs/index.blade.php",
+		"/D/xampp/htdocs/my_blog/public/phpliteadmin.php",
+		"/D/xampp/htdocs/my_blog/resources/views/blogs/show.blade.php",
+		"/D/xampp/htdocs/my_blog/.gitignore",
+		"/D/xampp/htdocs/my_blog/composer.json",
+		"/D/xampp/htdocs/my_blog/app/Http/Controllers/admin/Blogs_managerController.php",
+		"/D/xampp/htdocs/my_blog/config/database.php",
+		"/D/xampp/htdocs/my_blog/app/Models/Blog_model.php",
+		"/D/xampp/htdocs/laravel_5/app/Models/Blogs.php",
+		"/D/xampp/htdocs/my_blog/resources/views/welcome.blade.php",
+		"/D/xampp/htdocs/my_blog/config/myblog.php",
+		"/D/xampp/htdocs/my_blog/bootstrap/autoload.php",
+		"/D/xampp/htdocs/my_blog/bootstrap/app.php",
+		"/D/xampp/htdocs/my_blog/public/assets/themes/index.html",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/xampp/htdocs/laravel_5/app/Http/Controllers/BlogsController.php",
+		"/D/xampp/htdocs/laravel_5/resources/views/blogs/create.blade.php",
+		"/D/xampp/htdocs/laravel_5/app/Http/routes.php",
+		"/D/xampp/htdocs/laravel_5/storage/logs/laravel.log",
+		"/D/xampp/htdocs/laravel_5/resources/views/blogs/index.blade.php",
+		"/D/xampp/htdocs/laravel_5/config/app.php",
+		"/D/xampp/htdocs/laravel_5/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+		"/D/xampp/htdocs/laravel_5/resources/views/widgets/ele_video.blade.php",
+		"/D/xampp/htdocs/laravel_5/app/Helpers/common_helper.php",
+		"/D/xampp/htdocs/laravel_5/app/Http/Controllers/HomepageController.php",
+		"/D/xampp/htdocs/laravel_5/resources/views/videos/single-detail.blade.php",
+		"/D/xampp/htdocs/laravel_5/config/database.php",
+		"/C/Users/Admin/AppData/Local/Temp/scp33219/var/www/vhosts/video_youtube/app/Http/Controllers/admin/ImportvideoController.php",
+		"/D/xampp/htdocs/laravel_5/app/Http/Controllers/admin/ImportvideoController.php",
+		"/C/Users/Admin/AppData/Local/Temp/scp33259/var/www/vhosts/video_youtube/app/Console/Commands/Sendmail_cron.php",
+		"/D/xampp/htdocs/laravel_5/vendor/intervention/image/src/Intervention/Image/Image.php",
+		"/D/xampp/htdocs/laravel_5/composer.json",
+		"/D/xampp/htdocs/laravel_5/vendor/intervention/image/src/Intervention/Image/ImageServiceProvider.php",
+		"/D/xampp/htdocs/laravel_5/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php",
+		"/D/xampp/htdocs/laravel_5/public/assets/css/style.css",
+		"/D/xampp/htdocs/laravel_5/resources/views/_includes/header.php",
+		"/D/xampp/htdocs/laravel_5/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+		"/D/xampp/htdocs/laravel_5/.htaccess",
+		"/D/xampp/htdocs/laravel_5/public/.htaccess",
+		"/D/xampp/htdocs/laravel_5/vendor/laravel/framework/composer.json",
+		"/D/xampp/htdocs/laravel_5/public/assets/bower_components/formajax.js",
+		"/C/Users/Admin/AppData/Local/Temp/scp52175/var/www/vhosts/video_youtube/app/Console/Commands/Check_video.php",
+		"/C/Users/Admin/AppData/Local/Temp/scp01302/var/www/vhosts/video_youtube/app/Console/Commands/Import_video.php",
+		"/D/xampp/htdocs/laravel_5/app/Console/Commands/Import_video.php",
+		"/C/Users/Admin/AppData/Local/Temp/scp53495/var/www/vhosts/video_youtube/app/Http/Controllers/admin/ImportvideoController.php",
+		"/C/Users/Admin/AppData/Local/Temp/scp02188/var/www/vhosts/video_youtube/app/Console/Kernel.php",
+		"/C/Users/Admin/AppData/Local/Temp/scp59716/var/www/vhosts/video_youtube/app/Console/Commands/Import_video.php",
+		"/C/Users/Admin/AppData/Local/Temp/scp59524/var/www/vhosts/video_youtube/app/Console/Kernel.php",
+		"/D/xampp/htdocs/laravel_5/app/Console/Commands/Check_video.php",
+		"/D/xampp/htdocs/laravel_5/app/Console/Commands/SendEmails.php",
+		"/D/xampp/htdocs/Family/.htaccess",
+		"/D/xampp/htdocs/vus.vn/.htaccess",
+		"/D/xampp/htdocs/Family/index.php",
+		"/C/Users/Admin/Dropbox/Notes/Làm CV.note",
+		"/D/xampp/htdocs/laravel_5/app/Console/Kernel.php",
+		"/C/Users/Admin/Desktop/.htaccess",
+		"/C/Users/Admin/Desktop/emotion/array_emotion.php",
+		"/D/xampp/htdocs/laravel_5/config/smiles.php",
+		"/D/xampp/htdocs/code_tuan/application/controllers/product.php",
+		"/C/Users/Admin/Downloads/gui_anh/gui_anh/mproduct.php",
+		"/D/xampp/htdocs/code_tuan/application/config/database.php",
+		"/D/xampp/htdocs/laravel_5/bootstrap/app.php",
+		"/C/Users/Admin/Downloads/gui_anh/gui_anh/product.php",
+		"/D/xampp/htdocs/laravel_5/resources/views/layouts/layout_video.blade.php",
+		"/D/xampp/htdocs/laravel_5/resources/views/blogs/show.blade.php",
+		"/D/xampp/htdocs/laravel_5/.gitignore",
+		"/D/xampp/htdocs/laravel_5/vendor/symfony/http-foundation/File/UploadedFile.php",
+		"/D/xampp/htdocs/laravel_5/vendor/laravel/framework/src/Illuminate/Support/helpers.php",
+		"/D/xampp/htdocs/laravel_5/resources/views/blogs/edit.blade.php",
+		"/D/xampp/htdocs/laravel_5/resources/views/blog/single.blade.php",
+		"/D/xampp/htdocs/laravel_5/resources/views/blogs/show.php",
+		"/D/xampp/htdocs/laravel_5/app/Http/Controllers/BlogController.php",
+		"/D/xampp/htdocs/laravel_5/app/Http/Controllers/Auth/AuthController.php",
+		"/D/xampp/htdocs/laravel_5/resources/views/auth/login.blade.php",
+		"/D/xampp/htdocs/laravel_5/vendor/symfony/http-foundation/Session/Session.php",
+		"/D/xampp/htdocs/laravel_5/resources/views/tmp/navbar.php",
+		"/D/xampp/htdocs/laravel_5/config/session.php",
+		"/D/xampp/htdocs/laravel_5/vendor/laravel/framework/src/Illuminate/Support/Facades/Input.php",
+		"/D/xampp/htdocs/laravel_5/resources/views/videos/search.blade.php",
+		"/D/xampp/htdocs/laravel_5/resources/views/videos/category.blade.php",
+		"/D/xampp/htdocs/laravel_5/resources/views/widgets/comment_detail.blade.php",
+		"/D/xampp/htdocs/laravel_5/resources/views/homepage.blade.php",
+		"/D/xampp/htdocs/laravel_5/resources/views/layouts/theme_1.blade.php",
+		"/D/xampp/htdocs/Family/application/core/MY_Controller.php",
+		"/D/xampp/htdocs/laravel/public/assets/themes/css/flexslider.css",
+		"/D/xampp/htdocs/laravel/resources/views/landingpage.blade.php",
+		"/D/xampp/htdocs/laravel/app/Http/Controllers/ArticlesController.php",
+		"/D/xampp/htdocs/laravel/app/Http/routes.php"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\xampp\\htdocs\\laravel_5\\vendor",
+			"D:\\xampp\\htdocs\\learning_english\\application\\views",
+			"D:\\xampp\\htdocs\\learning_english\\application\\controllers"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"products",
+			"posts",
+			"nl_bCfk8vw",
+			"UCsXEbchdfiRpF9uq5dxgf1A",
+			"vihoangson.com/",
+			"timezone",
+			"date_default_timezone_get",
+			"hochiminh",
+			"vihoangson.com/",
+			"blog/public/",
+			"blog",
+			" ",
+			"</",
+			"\">",
+			" ",
+			"</text",
+			"\">",
+			"</text>",
+			">",
+			"word",
+			"learnin",
+			"LearningEnglish",
+			"activate",
+			"LearningEnglish",
+			"my_blog",
+			"LearningEnglish",
+			"yourdomain",
+			"Robb",
+			"#",
+			"flexslider",
+			"hash",
+			"navigation",
+			"./index.html",
+			"ref=\"img",
+			"ef=\"ima",
+			"ref=\"css",
+			"src=\"js",
+			"c=\"ima",
+			"blog_tilte",
+			"detail_page",
+			"layout_single_blog",
+			"orderBy",
+			"index",
+			"show",
+			"blog_title",
+			"blog_content",
+			"blog_extra",
+			"blog_content",
+			"blog_extra",
+			"blog_content",
+			"\\",
+			"blogs",
+			"\"/blog",
+			"('/blo",
+			"ect(",
+			"/blogs/",
+			"blogs",
+			"h2",
+			"blog",
+			"blog_title",
+			"100",
+			"edit",
+			"100",
+			"Edit",
+			"all",
+			"popup_img",
+			"all",
+			"Image",
+			"BlogsController",
+			"('bl",
+			"'bl",
+			"get",
+			"('/",
+			"layout_admin",
+			"script_custom",
+			"obb Armstron",
+			"Image",
+			"Blogs_managerController",
+			"blog_content",
+			"yeild",
+			"default",
+			"cache",
+			"env",
+			"timezone",
+			"app",
+			"yileld",
+			"rc=\"ima",
+			"c=\"image",
+			"src=\"js/",
+			"c=\"js/bo",
+			"ef=\"im",
+			"ef=\"font",
+			"ef=\"cs",
+			"laravel_5",
+			"111222333",
+			"AUTH_PASSWORD",
+			"SHOW_EDIT_DELETE",
+			"danger",
+			"Videos",
+			"button",
+			"8",
+			"2",
+			"10",
+			"2",
+			"upload_file",
+			"<br></div>",
+			"</span></div>",
+			"<br></span>",
+			"</span><br>",
+			"\">",
+			".gif",
+			"('bl",
+			"'blo",
+			"resource",
+			"post",
+			"put",
+			"get",
+			"index",
+			"create",
+			"index",
+			"create",
+			"popup_img",
+			"get",
+			"resource",
+			"post",
+			"blogs",
+			"redirect",
+			"str"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "rails.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"helper",
+				"vendor\\symfony\\console\\Helper\\Helper.php"
+			],
+			[
+				"app.php",
+				"config\\app.php"
+			],
+			[
+				"flexslider",
+				"public\\assets\\themes\\js\\jquery.flexslider.js"
+			],
+			[
+				"main.js",
+				"public\\assets\\themes\\js\\main.js"
+			],
+			[
+				"rout",
+				"app\\Http\\routes.php"
+			],
+			[
+				"blog.b",
+				"resources\\views\\blog.blade.php"
+			],
+			[
+				"layout",
+				"resources\\views\\layouts\\layout.blade.php"
+			],
+			[
+				"layout_a",
+				"resources\\views\\layouts\\layout_admin.blade.php"
+			],
+			[
+				"rou",
+				"app\\Http\\routes.php"
+			],
+			[
+				"app.ph",
+				"config\\app.php"
+			],
+			[
+				"app.",
+				"config\\app.php"
+			],
+			[
+				"app",
+				"bootstrap\\app.php"
+			],
+			[
+				"single-detail",
+				"resources\\views\\videos\\single-detail.blade.php"
+			],
+			[
+				"comm",
+				"app\\Helpers\\common_helper.php"
+			],
+			[
+				"databa",
+				"config\\database.php"
+			],
+			[
+				"common",
+				"app\\Helpers\\common_helper.php"
+			],
+			[
+				"header",
+				"resources\\views\\_includes\\header.php"
+			],
+			[
+				"database",
+				"config\\database.php"
+			],
+			[
+				"blog/",
+				"resources\\views\\blogs\\create.blade.php"
+			],
+			[
+				"layou",
+				"resources\\views\\layouts\\layout_video.blade.php"
+			],
+			[
+				"layout_vi",
+				"resources\\views\\layouts\\layout_video.blade.php"
+			],
+			[
+				"nav",
+				"resources\\views\\tmp\\navbar.php"
+			],
+			[
+				"session",
+				"config\\session.php"
+			],
+			[
+				"homepage",
+				"application\\controllers\\Homepage.php"
+			],
+			[
+				"header.php",
+				"application\\views\\_includes\\header.php"
+			],
+			[
+				"auto",
+				"application\\config\\autoload.php"
+			],
+			[
+				"family.css",
+				"asset\\css\\family.css"
+			],
+			[
+				"jquery.mag",
+				"asset\\bower_components\\Magnific-Popup-master\\dist\\jquery.magnific-popup.js"
+			],
+			[
+				"ajax_add_new",
+				"application\\views\\ajax_add_new.php"
+			],
+			[
+				"confi",
+				"application\\config\\config.php"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"hear",
+				"application\\views\\_includes\\header.php"
+			],
+			[
+				"word",
+				"application\\models\\word.php"
+			],
+			[
+				"ur",
+				"system\\core\\URI.php"
+			],
+			[
+				"hea",
+				"application\\views\\_include\\header.php"
+			],
+			[
+				"les",
+				"application\\controllers\\Lesson.php"
+			],
+			[
+				"lesson_te",
+				"asset\\css\\lesson_test.css"
+			],
+			[
+				"list.php",
+				"application\\views\\lesson\\list.php"
+			],
+			[
+				"less",
+				"application\\controllers\\Lesson.php"
+			],
+			[
+				"dat",
+				"application\\config\\database.php"
+			],
+			[
+				"data",
+				"application\\config\\database.php"
+			],
+			[
+				"atuo",
+				"application\\config\\autoload.php"
+			],
+			[
+				"lesson",
+				"application\\controllers\\Lesson.php"
+			],
+			[
+				"lesson.php",
+				"application\\controllers\\Lesson.php"
+			],
+			[
+				"vo",
+				"application\\models\\Vocabulary.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Admin\\Documents\\my_blog.sublime-project"
+			],
+			[
+				"fa",
+				"C:\\Users\\Admin\\Documents\\family.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "make",
+		"selected_items":
+		[
+			[
+				"make",
+				"make"
+			]
+		],
+		"width": 838.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

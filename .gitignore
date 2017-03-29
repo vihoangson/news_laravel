@@ -1,0 +1,8 @@
+.idea/*
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+.sqlite
+.env
+public/uploads/*

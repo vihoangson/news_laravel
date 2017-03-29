@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>PHP</ID>
+  <OriginalElement>\App\Http\Controllers\ArticlesController</OriginalElement>
+  <nodes>
+    <node x="265.5" y="0.0">\Illuminate\Routing\Controller</node>
+    <node x="281.0" y="410.0">\App\Http\Controllers\Controller</node>
+    <node x="577.0" y="278.0">\App\Http\Controllers\ArticlesController</node>
+    <node x="386.0" y="366.0">\App\Http\Controllers\NewsController</node>
+    <node x="0.0" y="321.5">\App\Http\Controllers\HomepageController</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="\App\Http\Controllers\HomepageController" target="\Illuminate\Routing\Controller">
+      <point x="0.0" y="-103.0" />
+      <point x="130.5" y="253.0" />
+      <point x="298.5" y="253.0" />
+      <point x="-99.0" y="114.0" />
+    </edge>
+    <edge source="\App\Http\Controllers\ArticlesController" target="\Illuminate\Routing\Controller">
+      <point x="0.0" y="-146.5" />
+      <point x="747.5" y="253.0" />
+      <point x="496.5" y="253.0" />
+      <point x="99.0" y="114.0" />
+    </edge>
+    <edge source="\App\Http\Controllers\NewsController" target="\Illuminate\Routing\Controller">
+      <point x="0.0" y="-58.5" />
+      <point x="471.5" y="253.0" />
+      <point x="430.5" y="253.0" />
+      <point x="33.0" y="114.0" />
+    </edge>
+    <edge source="\App\Http\Controllers\Controller" target="\Illuminate\Routing\Controller">
+      <point x="0.0" y="-14.5" />
+      <point x="323.5" y="253.0" />
+      <point x="364.5" y="253.0" />
+      <point x="-33.0" y="114.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="459.0" y="285.5" />
+  <SelectedNodes>
+    <node>\App\Http\Controllers\ArticlesController</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
